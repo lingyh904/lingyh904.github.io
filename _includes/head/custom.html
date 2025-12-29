@@ -109,33 +109,36 @@
   padding-right: 24px !important;
 }
 
-/* Mika-like spacing, but compatible with Minimal Mistakes float layout */
+/* Mika-like spacing, compatible with Minimal Mistakes float layout */
 @media (min-width: 900px) {
+
+  /* Overall page width (gives room for wider text) */
   #main {
-    max-width: 1120px !important;
+    max-width: 1180px !important;   /* try 1150–1250 */
     margin-left: auto !important;
     margin-right: auto !important;
     padding-left: 24px !important;
     padding-right: 24px !important;
   }
 
-  /* Sidebar width */
+  /* Sidebar width (matches Mika) */
   #main .sidebar {
     width: 260px !important;
   }
 
-  /* The ONLY knob you need: increases the gap safely */
+  /* Space between sidebar and main article */
   #main .page {
-    margin-left: 380px !important;  /* 260 sidebar + 120 gap */
+    margin-left: 360px !important;  /* 260 sidebar + 100 gap */
     width: auto !important;
     max-width: none !important;
   }
 
- #main {
-  max-width: 1180px !important;  /* try 1120–1250 */
+  /* 🔑 THIS is what makes the words spread out */
+  #main .page__content {
+    max-width: 900px !important;    /* try 860–940 */
+  }
 }
 
-}
 </style>
 
 <!-- Support for Academicons -->
