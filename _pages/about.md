@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<strong>I am a doctoral candidate in developmental psychology at the Graduate School of Education, University of Pennsylvania (expected May 2026), with dual master’s training in statistics and data science at the Wharton School.</strong>
+I am a doctoral candidate in developmental psychology at the Graduate School of Education, University of Pennsylvania (expected May 2026), with dual master’s training in statistics and data science at the Wharton School.
 
 From years of working with children, I have been inspired by how motivated they are to pursue goals—yet struck by how differently they respond when those goals become difficult. 
 
