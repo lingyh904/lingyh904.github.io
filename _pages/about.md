@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Lynn"
+title: "Hi! I am Lynn (Lingyan) Hu"
 author_profile: true
 redirect_from: 
   - /about/
