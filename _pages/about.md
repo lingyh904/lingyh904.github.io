@@ -8,11 +8,10 @@ redirect_from:
 ---
 I am a doctoral candidate in developmental psychology at the Graduate School of Education, University of Pennsylvania (expected May 2026), with dual master’s training in statistics and data science at the Wharton School.
 
-<strong>My research aims to better understand and support children’s successful goal pursuit under challenge, both in the short term and over development.</strong>
+<strong>My research aims to better understand and support children’s successful goal pursuit under challenge, both in the short term and over development.</strong> I address these questions by identifying motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across intrapersonal, interpersonal, and contextual levels. 
 
-I address these questions by identifying motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across intrapersonal, interpersonal, and contextual levels. 
-
-My work draws on psychological theories from cognitive, social, developmental psychology, and neuroscience. To balance causal inference with ecological validity, I use controlled experiments, quantitative modeling, and qualitative approaches, and collaborate with schools and museums to study motivation and self-regulation in real-world learning contexts.
+My work is deeply grounded in psychological theories and integrates insights from developmental, social, cognitive, and neural science. 
+To allow causal inference while preserving the ecological validity of my research, I use a diverse set of methodologies, including controlled experiments, behavioral intervention, scenario-based tasks, quantitative modeling, and qualitative analytic approaches, and widely collaborate with schools and museums to study motivation and self-regulation in real-world learning contexts.
 
 I am currently seeking postdoctoral opportunities in developmental psychology at the intersection of cognitive science, social psychology, and motivation research, starting around May 2026 or later.
 ======
