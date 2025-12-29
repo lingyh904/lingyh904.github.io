@@ -109,28 +109,28 @@
   padding-right: 24px !important;
 }
 
-/* Clean two-column layout + larger sidebar-to-content spacing (desktop only) */
+/* Mika-style sidebar + main content spacing (desktop only) */
 @media (min-width: 900px) {
-  .page__inner-wrap {
-    display: flex !important;
-    align-items: flex-start !important;
-    gap: 80px !important;            /* space between sidebar and text */
-  }
 
-  .page__inner-wrap .sidebar {
-    flex: 0 0 260px !important;
+  /* Sidebar width (like Mika) */
+  #main .sidebar {
     width: 260px !important;
-    margin: 0 !important;
-    float: none !important;          /* IMPORTANT: disable float layout */
   }
 
-  .page__inner-wrap .page__content {
-    flex: 1 1 auto !important;
+  /* Push main article right by sidebar + gap */
+  #main .page {
+    margin-left: 340px !important;   /* 260 sidebar + 80 gap */
+  }
+
+  /* Make sure inner wrap isn't adding extra offsets */
+  #main .page__inner-wrap {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* Optional: keep line length readable */
+  #main .page__content {
     max-width: 720px !important;
-    margin-left: 0 !important;       /* IMPORTANT: remove the hack */
-    float: none !important;          /* IMPORTANT: disable float layout */
-    width: auto !important;
-    min-width: 0 !important;         /* prevents weird wrapping */
   }
 }
 </style>
