@@ -10,7 +10,7 @@ redirect_from:
 
 From years of working with children, I have been inspired by how motivated they are to pursue goals—yet struck by how differently they respond when those goals become difficult. 
 
-My research aims to better understand and support children’s successful goal pursuit under challenge, both in the short term and over development.
+<strong>My research aims to better understand and support children’s successful goal pursuit under challenge, both in the short term and over development.</strong>
 
 I address these questions by identifying motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across three levels:
 <ul>
@@ -25,10 +25,12 @@ I collaborate closely with local museums and schools to preserve ecological vali
 
 My research follows open science practices, including preregistration and sharing de-identified data, materials, and code to support transparency and replication.
 
-Getting started
+I am currently seeking postdoctoral opportunities in developmental psychology at the intersection of cognitive science, social psychology, and motivation research, starting around May 2026 or later.
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+Learn more about my research, teaching philosophy, and publications through the links below or via the navigation tabs above.
+
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
