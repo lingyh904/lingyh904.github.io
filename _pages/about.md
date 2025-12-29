@@ -7,17 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a developmental researcher studying children's goal-pursuit behavaiors. 
-A data-driven personal website
+I am a doctoral candidate in developmental psychology at the Graduate School of Education, University of Pennsylvania (expected May 2026), with dual master’s training in statistics and data science at the Wharton School.
 ======
-I study .... 
+From years of working with children, I have been inspired by how motivated they are to pursue goals—yet struck by how differently they respond when those goals become difficult. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research aims to better understand and support children’s successful goal pursuit under challenge, both in the short term and over development.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+I address these questions by identifying motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across three levels:
+(1) Intrapersonal—how children’s intuitive theories about motivation guide their self-regulatory decisions;
+(2) Interpersonal—how caregivers’ beliefs about children and tasks shape parenting practices; and
+(3) Contextual—how socioeconomic and cultural contexts influence both motivation and parenting.
+
+Across projects, I use experimental methods, quantitative modeling, qualitative analyses, and theoretical synthesis to study how motivation is regulated—and how it can be supported—in real-world learning environments. 
+
+I collaborate closely with local museums and schools to preserve ecological validity, and I also conduct online studies using platforms such as Children Helping Science. 
+
+My research follows open science practices, including preregistration and sharing de-identified data, materials, and code to support transparency and replication.
 
 Getting started
 ======
