@@ -13,6 +13,6 @@ I am a doctoral candidate in developmental psychology at the Graduate School of 
 My work is deeply grounded in psychological theories and integrates insights from developmental, social, cognitive, and neural science. 
 To allow causal inference while preserving the ecological validity of my research, I use a diverse set of methodologies, including controlled experiments, behavioral intervention, scenario-based tasks, quantitative modeling, and qualitative analytic approaches, and widely collaborate with schools and museums to study motivation and self-regulation in real-world learning contexts.
 
-I am currently seeking postdoctoral opportunities in developmental psychology at the intersection of cognitive science, social psychology, and motivation research, starting around May 2026 or later.
-------
+<strong>I am currently seeking postdoctoral opportunities in developmental psychology at the intersection of cognitive science, social psychology, and motivation research, starting around May 2026 or later.</strong> 
+
 Learn more about my research, teaching philosophy, and publications through the links below or via the navigation tabs above.
