@@ -89,62 +89,45 @@
     box-shadow: none !important;
     border-color: transparent !important;
   }
-  /* ===== Layout: match the centered, roomy Mika-style look ===== */
+  /* ===== Center the whole site like the Mika example ===== */
 
-/* 1) Constrain the whole site width and center it */
-.masthead__inner-wrap,
-.initial-content,
-.page {
+/* Center the top nav to the same width as the page */
+.masthead__inner-wrap {
   max-width: 1050px !important;
   margin-left: auto !important;
   margin-right: auto !important;
-}
-
-/* 2) Add comfortable side padding so it never hugs the window edges */
-.masthead__inner-wrap,
-.initial-content,
-.page {
   padding-left: 24px !important;
   padding-right: 24px !important;
 }
 
-/* 3) Make the main area a clean two-column layout */
+/* Center the main content container */
+#main,
 .initial-content {
-  display: flex !important;
-  align-items: flex-start !important;
-  gap: 56px !important;            /* space between sidebar and text */
+  max-width: 1050px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
 }
 
-/* Sidebar width like the screenshot */
-.sidebar {
-  flex: 0 0 240px !important;
-  width: 240px !important;
-  margin: 0 !important;
-}
+/* Two-column layout (only on desktop) */
+@media (min-width: 900px) {
+  .page__inner-wrap {
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 56px !important;
+  }
 
-/* Main text column width like the screenshot */
-.page__content {
-  flex: 1 1 auto !important;
-  max-width: 700px !important;
-}
+  .page__inner-wrap .sidebar {
+    flex: 0 0 240px !important;
+    width: 240px !important;
+    margin: 0 !important;
+  }
 
-/* 4) Give the page some top breathing room under the nav */
-.page,
-.initial-content {
-  padding-top: 28px !important;
-}
-
-/* 5) Optional: slightly larger, cleaner heading like “Hi! I’m Mika” */
-.page__content h1 {
-  font-size: 2.1em !important;
-  line-height: 1.15 !important;
-  margin-top: 0.2em !important;
-}
-
-/* 6) Optional: tighten nav spacing to look clean */
-.greedy-nav .visible-links a {
-  padding-top: 0.75rem !important;
-  padding-bottom: 0.75rem !important;
+  .page__inner-wrap .page__content {
+    flex: 1 1 auto !important;
+    max-width: 700px !important;
+  }
 }
 </style>
 
