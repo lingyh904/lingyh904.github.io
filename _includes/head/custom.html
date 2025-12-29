@@ -89,9 +89,7 @@
     box-shadow: none !important;
     border-color: transparent !important;
   }
-  /* ===== Center the whole site like the Mika example ===== */
-
-/* Center the top nav to the same width as the page */
+  /* Center the top nav to the same width as the page */
 .masthead__inner-wrap {
   max-width: 1050px !important;
   margin-left: auto !important;
@@ -110,12 +108,14 @@
   padding-right: 24px !important;
 }
 
-/* Two-column layout (only on desktop) */
+/* Two-column layout + bigger sidebar-to-content spacing (desktop only) */
 @media (min-width: 900px) {
+
+  /* If flex is applied, gap will work */
   .page__inner-wrap {
     display: flex !important;
     align-items: flex-start !important;
-    gap: 56px !important;
+    gap: 80px !important; /* increased from 56px */
   }
 
   .page__inner-wrap .sidebar {
@@ -127,6 +127,7 @@
   .page__inner-wrap .page__content {
     flex: 1 1 auto !important;
     max-width: 700px !important;
+    margin-left: 80px !important; /* IMPORTANT: works even if theme uses floats */
   }
 }
 </style>
