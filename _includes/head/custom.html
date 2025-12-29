@@ -4,20 +4,55 @@
 
 <!-- Force white background everywhere -->
 <style>
-  html, body {
-    background: #ffffff !important;
-  }
-
+  /* 1) Make backgrounds white */
+  html, body,
+  .layout--single, .layout--home,
   .initial-content,
   .page,
   .page__inner-wrap,
   .archive,
-  .archive__item,
-  .sidebar,
-  .masthead,
-  .greedy-nav,
-  .page__footer {
+  .archive__item {
     background: #ffffff !important;
+  }
+
+  /* 2) Force readable text colors */
+  body,
+  .page__content,
+  .page__content p,
+  .page__content li,
+  .page__content span,
+  .page__content div {
+    color: #222222 !important;
+  }
+
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4 {
+    color: #111111 !important;
+  }
+
+  /* 3) Fix the top navigation (tabs area) */
+  .masthead,
+  .masthead__inner-wrap,
+  .greedy-nav,
+  .greedy-nav .visible-links,
+  .greedy-nav .hidden-links,
+  .greedy-nav__toggle {
+    background: #ffffff !important;
+  }
+
+  /* Nav link colors */
+  .greedy-nav a,
+  .greedy-nav .visible-links a,
+  .masthead a {
+    color: #222222 !important;
+  }
+
+  /* Optional: make hover obvious */
+  .greedy-nav a:hover,
+  .masthead a:hover {
+    color: #000000 !important;
   }
 </style>
 
