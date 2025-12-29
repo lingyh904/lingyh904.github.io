@@ -109,13 +109,14 @@
   padding-right: 24px !important;
 }
 
-/* Mika-style sidebar + controllable gap WITHOUT shrinking text */
+/* Mika-like spacing, but compatible with Minimal Mistakes float layout */
 @media (min-width: 900px) {
-
-  /* Optional: give yourself a little more total room than 1050 */
-  #main,
-  .initial-content {
-    max-width: 1120px !important;   /* try 1120–1200 */
+  #main {
+    max-width: 1120px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 24px !important;
+    padding-right: 24px !important;
   }
 
   /* Sidebar width */
@@ -123,27 +124,15 @@
     width: 260px !important;
   }
 
-  /* Choose the gap you want here */
-  :root { --side-gap: 110px; }      /* try 90, 110, 130 */
-
-  /* Place the article to the right, but KEEP its width */
+  /* The ONLY knob you need: increases the gap safely */
   #main .page {
-    margin-left: calc(260px + var(--side-gap)) !important;
-    width: calc(100% - (260px + var(--side-gap))) !important;
+    margin-left: 380px !important;  /* 260 sidebar + 120 gap */
+    width: auto !important;
     max-width: none !important;
   }
 
-  /* Prevent any weird clipping/wrapping artifacts */
   #main .page__content {
-    max-width: 720px !important;    /* readable line length like Mika */
-    overflow: visible !important;
-    word-break: normal !important;
-  }
-
-  /* Remove extra internal padding that can make it feel cramped */
-  #main .page__inner-wrap {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    max-width: 720px !important;
   }
 }
 </style>
