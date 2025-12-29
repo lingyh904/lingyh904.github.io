@@ -109,28 +109,41 @@
   padding-right: 24px !important;
 }
 
-/* Mika-style sidebar + main content spacing (desktop only) */
+/* Mika-style sidebar + controllable gap WITHOUT shrinking text */
 @media (min-width: 900px) {
 
-  /* Sidebar width (like Mika) */
+  /* Optional: give yourself a little more total room than 1050 */
+  #main,
+  .initial-content {
+    max-width: 1120px !important;   /* try 1120–1200 */
+  }
+
+  /* Sidebar width */
   #main .sidebar {
     width: 260px !important;
   }
 
-  /* Push main article right by sidebar + gap */
+  /* Choose the gap you want here */
+  :root { --side-gap: 110px; }      /* try 90, 110, 130 */
+
+  /* Place the article to the right, but KEEP its width */
   #main .page {
-    margin-left: 340px !important;   /* 260 sidebar + 80 gap */
+    margin-left: calc(260px + var(--side-gap)) !important;
+    width: calc(100% - (260px + var(--side-gap))) !important;
+    max-width: none !important;
   }
 
-  /* Make sure inner wrap isn't adding extra offsets */
+  /* Prevent any weird clipping/wrapping artifacts */
+  #main .page__content {
+    max-width: 720px !important;    /* readable line length like Mika */
+    overflow: visible !important;
+    word-break: normal !important;
+  }
+
+  /* Remove extra internal padding that can make it feel cramped */
   #main .page__inner-wrap {
     padding-left: 0 !important;
     padding-right: 0 !important;
-  }
-
-  /* Optional: keep line length readable */
-  #main .page__content {
-    max-width: 720px !important;
   }
 }
 </style>
