@@ -17,7 +17,7 @@ To allow causal inference while preserving the ecological validity of my researc
 
 Learn more about my research and teaching experiences through the links below or via the navigation tabs above.
 
-- **[Portfolio](/research/):** I study motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across intrapersonal, interpersonal, and sociocultural levels of analysis.
+- **[Portfolio](/portfolio/):** I study motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across intrapersonal, interpersonal, and sociocultural levels of analysis.
 - **[Publications](/publications/):** Read my published papers and works in progress.
 - **[Conferences](/talks/):** See my paper presentations and posters at developmental and psychological science conferences.
 - **[Teaching](/teaching/):** Learn about my teaching philosophy and experience supporting student learning in psychology and quantitative methods.
