@@ -15,4 +15,10 @@ To allow causal inference while preserving the ecological validity of my researc
 
 <strong>I am currently seeking postdoctoral opportunities in developmental psychology at the intersection of cognitive science, social psychology, and motivation research, starting around May 2026 or later.</strong> 
 
-Learn more about my research, teaching philosophy, and publications through the links below or via the navigation tabs above.
+Learn more about my research and teaching experiences through the links below or via the navigation tabs above.
+
+- **[Portfolio](/research/):** I study motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across intrapersonal, interpersonal, and sociocultural levels of analysis.
+- **[Publications](/publications/):** Read my published papers and works in progress.
+- **[Conferences](/talks/):** See my paper presentations and posters at developmental and psychological science conferences.
+- **[Teaching](/teaching/):** Learn about my teaching philosophy and experience supporting student learning in psychology and quantitative methods.
+
