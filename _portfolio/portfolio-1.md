@@ -4,3 +4,5 @@ excerpt: "Human beings are not only motivated to pursue goals; they are also mot
 
 In this line of research, I study the development of children’s intuitive theories of motivation: how children conceptualize motivation, how they use these beliefs to predict and evaluate others’ effort, persistence, and success, and how these beliefs and reasoning processes shape their own motivation and self-regulation."
 collection: portfolio
+---
+
