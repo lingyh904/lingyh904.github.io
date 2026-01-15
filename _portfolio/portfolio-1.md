@@ -4,10 +4,6 @@ excerpt: "What do children believe motivation is, and how do those beliefs shape
 collection: portfolio
 ---
 
-My dissertation examines how children make sense of motivation and use that understanding to predict effort, persistence, and learning. Across studies, I test children’s intuitive theories about what motivation is, where it comes from, and how it can be shaped—especially by goals, thoughts, and task contexts.
+Human beings are not only motivated to pursue goals; they are also motivated to monitor and manage their engagement with those goals, especially in the face of challenges. How people monitor and manage their motivation is shaped, in part, by how they understand motivation—what motivation is, whether it is malleable and controllable, and which strategies are effective for regulating it.
 
-In this line of work, I ask:
-
-- Do children value goal commitment, and do they use commitment cues to predict persistence and success?
-- Do children recognize that thoughts and cognitive strategies (e.g., reframing) can change motivation and self-regulation?
-- Do children represent qualitatively different types of motivation (e.g., intrinsic, identified, external), and reason flexibly about when each is effective across task contexts?
+In this line of research, I study the development of children’s intuitive theories of motivation: how children conceptualize motivation, how they use these beliefs to predict and evaluate others’ effort, persistence, and success, and how these beliefs and reasoning processes shape their own motivation and self-regulation.
