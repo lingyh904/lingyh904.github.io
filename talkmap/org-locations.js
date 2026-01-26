@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Finding happiness: How goals shape children's perceptions beyond simple preferences<br />SRCD 2025; Minneapolis, MN, United States",
+    44.9772995,
+    -93.2654692
   ]
 ];
