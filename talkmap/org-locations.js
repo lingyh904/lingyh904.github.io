@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Better scores, better future? Chinese mothers striving to balance children\u2019s academic achievement and holistic development<br />Society for Research in Child Development (SRCD) Biennial Meeting; Minneapolis, MN, United States",
+    44.9772995,
+    -93.2654692
   ],
   [
     "Socioeconomic origins of salience detection: Evidence from auditory mismatch negativity<br />Society for Neuroscience; San Diego, CA, United States",
