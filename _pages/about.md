@@ -20,5 +20,6 @@ Learn more about my research and teaching experiences through the links below or
 
 - **[Publications](/publications/):** Read my published papers and works in progress.
 - **[Conferences](/talks/):** See my paper presentations and posters at developmental and psychological science conferences.
+- **[Teaching](/teaching/)
 
 
