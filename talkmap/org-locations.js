@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Socioeconomic origins of salience detection: Evidence from auditory mismatch negativity<br />Society for Neuroscience; San Diego, CA, United States",
+    32.7174202,
+    -117.162772
   ],
   [
     "Finding happiness: How goals shape children's perceptions beyond simple preferences<br />SRCD 2025; Minneapolis, MN, United States",
