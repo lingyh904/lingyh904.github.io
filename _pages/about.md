@@ -20,6 +20,6 @@ Learn more about my research and teaching experiences through the links below or
 
 - **[Research](/research/):** Learn more about my work on beliefs about motivation and self-regulation, parenting, and socioeconomic contexts of development.
 - **[Conferences](/talks/):** See my paper presentations and posters at developmental and psychological science conferences.
-- **[Teaching](/teaching/): ** Learn about my teaching assistant experience in developmental science and quantitative methods.
+- **[Teaching](/teaching/):** Learn about my teaching assistant experience in developmental science and quantitative methods.
 
 
