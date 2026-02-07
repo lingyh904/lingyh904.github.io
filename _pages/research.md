@@ -1,0 +1,18 @@
+---
+layout: single
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+## Beliefs about Motivation and Self-Regulation  
+†Master’s students mentored by the author  
+
+- **Hu, L.**, †Yuan, S., †Zhao, Y., Frye, D. A., & Miele, D. B. (In progress).  
+  *Interest or rewards? Children’s and adults’ metamotivational beliefs about intrinsic and extrinsic motivation.*
+
+- **Hu, L.**, †Zhao, Y., †Yuan, S., Prewitt, S. L., & Frye, D. (R&R, *Developmental Psychology*).  
+  *The development of metamotivational knowledge.*
+
+- **Hu, L.**, Yang, F., & Frye, D. (R&R, *Child Development*).  
+  *Finding happiness: Young children recognize that goals shape happiness beyond simple preferences.*
