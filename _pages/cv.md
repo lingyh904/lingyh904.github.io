@@ -6,12 +6,6 @@ author_profile: false
 classes: wide cv-page
 ---
 
-<iframe
-  src="/files/CV_Lingyan_Hu.pdf"
-  width="100%"
-  height="1100px"
-  style="border: none;">
-</iframe>
 
 <p>
   <a href="/files/CV_Lingyan_Hu.pdf" target="_blank" rel="noopener">
