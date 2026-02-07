@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* CV page alignment fix (only affects pages with classes: cv-page) */
+.cv-page .page__content {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none !important;
+}
+
+.cv-page .page__inner-wrap {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.cv-page iframe {
+  display: block;
+  width: 100% !important;
+}
