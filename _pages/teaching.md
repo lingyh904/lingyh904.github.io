@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-I have teaching experience across developmental psychology, research methods, and quantitative analysis, and I enjoy supporting students’ conceptual understanding and confidence in both theoretical and applied contexts.
 
 ## Teaching Experience
 
