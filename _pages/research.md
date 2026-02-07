@@ -18,15 +18,19 @@ author_profile: true
   *Finding happiness: Young children recognize that goals shape happiness beyond simple preferences.*
 
 ## Parental Beliefs and Parenting Practices
+*Equal contribution
 
+- **Hu, L.***, Xie*, H., Lin, J., Bian, Q., & Nakkula, M. (2nd-round review, *Journal of Adolescent Research*).  
+  *Envisioning forward, parenting now: How Chinese mothers’ perceptions of adolescents’ possible selves motivate their current parenting practices.*
+  
 - Shachnai, R., Asaba, M., **Hu, L.**, & Leonard, J. A. (2025).  
   *Pointing out learning opportunities reduces overparenting.*  
   *Child Development, 96*(2), 679–690. https://doi.org/10.1111/cdev.14198  
 
-- **Hu, L.***, Xie*, H., Lin, J., Bian, Q., & Nakkula, M. (2nd-round review, *Journal of Adolescent Research*).  
-  *Envisioning forward, parenting now: How Chinese mothers’ perceptions of adolescents’ possible selves motivate their current parenting practices.*
+
 
 ## Socioeconomic and Environmental Contexts of Development  
+*Equal contribution
 
 - Kumar, A., Alam, A., **Hu, L.**, & Wolf, S. (Manuscript in preparation).  
   *Contextual heterogeneity in cognitive development in urban India: Evidence from regularized regression and random forest models.*
