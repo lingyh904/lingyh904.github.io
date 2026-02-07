@@ -18,8 +18,8 @@ To allow causal inference while preserving the ecological validity of my researc
 Learn more about my research and teaching experiences through the links below or via the navigation tabs above.
 
 
-- **[Publications](/publications/):** Read my published papers and works in progress.
+- **[Research](/research/):** Learn more about my work on beliefs about motivation and self-regulation, parenting, and socioeconomic contexts of development.
 - **[Conferences](/talks/):** See my paper presentations and posters at developmental and psychological science conferences.
-- **[Teaching](/teaching/)
+- **[Teaching](/teaching/): ** Learn about my teaching assistant experience in developmental science and quantitative methods.
 
 
