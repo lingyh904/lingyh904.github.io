@@ -6,8 +6,9 @@ type: poster
 venue: "Cognitive Development Society (CDS) 2026"
 location: "Montreal, Canada"
 date: 2026-04-10
-[Poster PDF]
+
 ---
+[Poster PDF]
 
 ## Abstract
 
