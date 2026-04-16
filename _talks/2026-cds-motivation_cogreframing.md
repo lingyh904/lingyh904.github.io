@@ -8,7 +8,7 @@ location: "Montreal, Canada"
 date: 2026-04-10
 
 ---
-[Poster PDF]
+[Poster PDF](/files/CDS_2026_task_motivation_fit.pdf)
 
 ## Abstract
 
