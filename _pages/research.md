@@ -10,15 +10,15 @@ author_profile: true
 
 - **Hu, L.**, †Yuan, S., †Zhao, Y., Frye, D. A., & Miele, D. B. (In progress).  
   *Interest or rewards? Children’s and adults’ metamotivational beliefs about intrinsic and extrinsic motivation.*
-  [Poster (CDS 2026)](LINK_HERE)
+  [Poster (CDS 2026)](https://lingyh904.github.io/talks/2026-cds-motivation_cogreframing/)
 
 - **Hu, L.**, †Zhao, Y., †Yuan, S., Prewitt, S. L., & Frye, D. (R&R).  
   *The development of metamotivational knowledge.*
-    [Poster (CDS 2026)](LINK_HERE)
+    [Poster (CDS 2026)](https://lingyh904.github.io/talks/CDS_2026_cog_reframing_poster/)
 
 - **Hu, L.**, Yang, F., & Frye, D. (R&R).  
   *Finding happiness: Young children recognize that goals shape happiness beyond simple preferences.*
-    [Symposium presentation (SRCD 2025)](LINK_HERE)
+    [Symposium presentation (SRCD 2025)](https://lingyh904.github.io/talks/2025-srcd-happiness-talk/)
 
 ## Parental Beliefs and Parenting Practices
 *Equal contribution
