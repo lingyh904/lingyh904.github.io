@@ -18,5 +18,10 @@ var addressPoints = [
     "Socioeconomic origins of salience detection: Evidence from auditory mismatch negativity<br />Society for Neuroscience; San Diego, CA, United States",
     32.7174202,
     -117.162772
+  ],
+  [
+    "Development of meta-motivational knowledge: Children\u2019s awareness of cognitive reframing in shaping motivation<br />Cognitive Development Society (CDS) 2026; Montreal, Canada",
+    45.5031824,
+    -73.5698065
   ]
 ];
