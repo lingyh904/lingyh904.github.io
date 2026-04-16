@@ -8,7 +8,7 @@ location: "Minneapolis, MN, United States"
 presentation: "Paper symposium: Academic Expectations of Chinese Parents on Their Adolescent Child: Visions, Communication, Practices, and Impacts"
 date: 2025-04-01
 ---
-Abstract: 
+## Abstract
 Background: In China, academic achievement has long been a primary goal of child-rearing and an indicator of effective parenting (Wang & Tamis-LeMonda, 2003). Rooted in traditional Chinese culture, academic success signifies not only personal growth and diligence but also fulfilling filial duties (Luo et al., 2013). While the focus on academic success remains strong in the competitive landscape of contemporary Chinese society, it often induces substantial psychological stress in adolescents and restricts their exploration of personal interests and future planning (Chen-Bouck et al., 2017). As modern Chinese parents increasingly prioritize their children's holistic development and well-being, they may face a dilemma in balancing broader aspirations with high academic expectations, particularly as their children approach the critical college entrance examination. This study examined Chinese mothers' expectations for their adolescent children and the actions they take to support goal achievement, both academically and beyond.
 
 Method: Individual, semi-structured interviews were conducted with 24 urban Chinese mothers whose adolescent children were attending high schools. The interviews focused on their aspirations, expectations, and plans for their children’s futures. Additionally, we explored how these mothers communicate with their children regarding future goals and the supportive actions they take to foster their children’s success.
