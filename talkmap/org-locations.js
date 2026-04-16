@@ -10,6 +10,11 @@ var addressPoints = [
     -93.2654692
   ],
   [
+    "Interest or rewards? Children\u2019s reasoning about intrinsic and extrinsic motivation across task contexts<br />Cognitive Development Society (CDS) 2026; Montreal, Canada",
+    45.5031824,
+    -73.5698065
+  ],
+  [
     "Socioeconomic origins of salience detection: Evidence from auditory mismatch negativity<br />Society for Neuroscience; San Diego, CA, United States",
     32.7174202,
     -117.162772
