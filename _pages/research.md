@@ -11,16 +11,16 @@ author_profile: true
 - **Hu, L.**, †Yuan, S., †Zhao, Y., Frye, D. A., & Miele, D. B. (In progress).  
   *Interest or rewards? Children’s and adults’ metamotivational beliefs about intrinsic and extrinsic motivation.*
 
-- **Hu, L.**, †Zhao, Y., †Yuan, S., Prewitt, S. L., & Frye, D. (R&R, *Developmental Psychology*).  
+- **Hu, L.**, †Zhao, Y., †Yuan, S., Prewitt, S. L., & Frye, D. (R&R).  
   *The development of metamotivational knowledge.*
 
-- **Hu, L.**, Yang, F., & Frye, D. (R&R, *Child Development*).  
+- **Hu, L.**, Yang, F., & Frye, D. (R&R).  
   *Finding happiness: Young children recognize that goals shape happiness beyond simple preferences.*
 
 ## Parental Beliefs and Parenting Practices
 *Equal contribution
 
-- **Hu, L.***, Xie*, H., Lin, J., Bian, Q., & Nakkula, M. (2nd-round review, *Journal of Adolescent Research*).  
+- **Hu, L.***, Xie*, H., Lin, J., Bian, Q., & Nakkula, M. (Conditionally accepted, *Journal of Adolescent Research*).  
   *Envisioning forward, parenting now: How Chinese mothers’ perceptions of adolescents’ possible selves motivate their current parenting practices.*
   
 - Shachnai, R., Asaba, M., **Hu, L.**, & Leonard, J. A. (2025).  
