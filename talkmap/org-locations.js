@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Interest or rewards? Children\u2019s reasoning about intrinsic and extrinsic motivation across task contexts<br />Cognitive Development Society (CDS) 2026; Montreal, Canada",
+    45.5031824,
+    -73.5698065
+  ],
+  [
     "Finding happiness: How goals shape children's perceptions beyond simple preferences<br />SRCD 2025; Minneapolis, MN, United States",
     44.9772995,
     -93.2654692
@@ -8,11 +13,6 @@ var addressPoints = [
     "Better scores, better future? Chinese mothers striving to balance children\u2019s academic achievement and holistic development<br />Society for Research in Child Development (SRCD) Biennial Meeting; Minneapolis, MN, United States",
     44.9772995,
     -93.2654692
-  ],
-  [
-    "Interest or rewards? Children\u2019s reasoning about intrinsic and extrinsic motivation across task contexts<br />Cognitive Development Society (CDS) 2026; Montreal, Canada",
-    45.5031824,
-    -73.5698065
   ],
   [
     "Socioeconomic origins of salience detection: Evidence from auditory mismatch negativity<br />Society for Neuroscience; San Diego, CA, United States",
