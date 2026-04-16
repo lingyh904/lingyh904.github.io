@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a doctoral candidate in developmental psychology at the Graduate School of Education, University of Pennsylvania (expected May 2026), advised by Dr. Douglas Frye, with dual master’s training in statistics and data science from the Wharton School. 
+I am a doctoral candidate in developmental psychology at the Graduate School of Education, University of Pennsylvania (expected May 2026), advised by [Dr. Douglas Frye](https://www.gse.upenn.edu/faculty/douglas-frye) and Dr. Michael Nakkula, with dual master’s training in statistics and data science from the Wharton School. 
 
 <strong>My research aims to better understand and support children’s successful goal pursuit under challenge, both in the short term and over development.</strong> I address these questions by identifying motivational and self-regulatory mechanisms that support or hinder children’s goal pursuit across intrapersonal, interpersonal, and contextual levels. 
 
