@@ -23,7 +23,7 @@ author_profile: true
 ## Parental Beliefs and Parenting Practices
 *Equal contribution
 
-- **Hu, L.***, Xie*, H., Lin, J., Bian, Q., & Nakkula, M. (Conditionally accepted, *Journal of Adolescent Research*).  
+- **Hu, L.***, Xie*, H., Lin, J., Bian, Q., & Nakkula, M. (In press, *Journal of Adolescent Research*).  
   *Envisioning forward, parenting now: How Chinese mothers’ perceptions of adolescents’ possible selves motivate their current parenting practices.*
   
 - Shachnai, R., Asaba, M., **Hu, L.**, & Leonard, J. A. (2025).  
