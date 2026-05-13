@@ -22,4 +22,4 @@ Learn more about my currentt research and teaching experiences through the links
 - **[Conferences](/talks/):** See my paper presentations and posters at developmental and psychological science conferences.
 - **[Teaching](/teaching/):** Learn about my teaching assistant experience in developmental science and quantitative methods.
 
-
+I would be happy to hear from you if you are interested in learning more about my research or exploring potential collaborations. Please feel free to email me at lingyh904@gmail.com.
