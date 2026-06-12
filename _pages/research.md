@@ -16,7 +16,7 @@ author_profile: true
   *The development of metamotivational knowledge.*
     [Poster (CDS 2026)](https://lingyh904.github.io/talks/CDS_2026_cog_reframing_poster/)
 
-- **Hu, L.**, Frye, D. , & Yang, F.(R&R).  
+- **Hu, L.**, Frye, D. , & Yang, F. (R&R).  
   *Finding happiness: Young children recognize that goals shape happiness beyond simple preferences.*
     [Symposium presentation (SRCD 2025)](https://lingyh904.github.io/talks/2025-srcd-happiness-talk/)
 
