@@ -1,6 +1,6 @@
 ---
 title: "Finding happiness: How goals shape children's perceptions beyond simple preferences"
-authors: "Hu, L., Yang, F., & Frye, D."
+authors: "Hu, L., Frye, D., & Yang, F."
 year: 2025
 type: talk
 venue: "SRCD 2025"
